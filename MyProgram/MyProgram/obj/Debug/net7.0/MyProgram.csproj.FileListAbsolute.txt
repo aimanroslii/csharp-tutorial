@@ -1,0 +1,15 @@
+/Users/aalog/Desktop/CODE PROJECT/CSTutorial/MyProgram/MyProgram/bin/Debug/net7.0/MyProgram
+/Users/aalog/Desktop/CODE PROJECT/CSTutorial/MyProgram/MyProgram/bin/Debug/net7.0/MyProgram.deps.json
+/Users/aalog/Desktop/CODE PROJECT/CSTutorial/MyProgram/MyProgram/bin/Debug/net7.0/MyProgram.runtimeconfig.json
+/Users/aalog/Desktop/CODE PROJECT/CSTutorial/MyProgram/MyProgram/bin/Debug/net7.0/MyProgram.dll
+/Users/aalog/Desktop/CODE PROJECT/CSTutorial/MyProgram/MyProgram/bin/Debug/net7.0/MyProgram.pdb
+/Users/aalog/Desktop/CODE PROJECT/CSTutorial/MyProgram/MyProgram/obj/Debug/net7.0/MyProgram.csproj.AssemblyReference.cache
+/Users/aalog/Desktop/CODE PROJECT/CSTutorial/MyProgram/MyProgram/obj/Debug/net7.0/MyProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aalog/Desktop/CODE PROJECT/CSTutorial/MyProgram/MyProgram/obj/Debug/net7.0/MyProgram.AssemblyInfoInputs.cache
+/Users/aalog/Desktop/CODE PROJECT/CSTutorial/MyProgram/MyProgram/obj/Debug/net7.0/MyProgram.AssemblyInfo.cs
+/Users/aalog/Desktop/CODE PROJECT/CSTutorial/MyProgram/MyProgram/obj/Debug/net7.0/MyProgram.csproj.CoreCompileInputs.cache
+/Users/aalog/Desktop/CODE PROJECT/CSTutorial/MyProgram/MyProgram/obj/Debug/net7.0/MyProgram.dll
+/Users/aalog/Desktop/CODE PROJECT/CSTutorial/MyProgram/MyProgram/obj/Debug/net7.0/refint/MyProgram.dll
+/Users/aalog/Desktop/CODE PROJECT/CSTutorial/MyProgram/MyProgram/obj/Debug/net7.0/MyProgram.pdb
+/Users/aalog/Desktop/CODE PROJECT/CSTutorial/MyProgram/MyProgram/obj/Debug/net7.0/MyProgram.genruntimeconfig.cache
+/Users/aalog/Desktop/CODE PROJECT/CSTutorial/MyProgram/MyProgram/obj/Debug/net7.0/ref/MyProgram.dll
